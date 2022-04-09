@@ -18,7 +18,6 @@
         "psr/http-message": "^1.0"
     },
     "require-dev": {
-		"phpunit/phpunit": "6.*",
         "nyholm/psr7": "^1.5"
     },
     "autoload": {
