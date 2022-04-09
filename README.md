@@ -24,12 +24,12 @@ to a ``Nyholm\Psr7\ServerRequest`` class implementing the
 <?php
 
 use CodeIgniter\Config\Services;
-use CodeIgniter\Psr7Bridge\HttpPsr7Factory;
+use mumtazhaqiqy\Codeigniter4Psr7\HttpPsr7Factory;
 use Nyholm\Psr7\Factory\Psr17Factory;
 
 $requestCodeIgniter = Services::request();
 
-$psr17Factory = new Psr17Factory();
+$psr17Factory = new Psr17Factory(); 
 $psrHttpFactory = new HttpPsr7Factory($psr17Factory, $psr17Factory, $psr17Factory, $psr17Factory);
 $psrRequest = $psrHttpFactory->createRequest($requestCodeIgniter);
 ```
