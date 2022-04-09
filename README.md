@@ -1,6 +1,5 @@
 # CI4 PSR-7 HTTP Messages
-
-This package converst codeigniter4-http object from and to objects implementing HTTP message interfaces defined by PSR-7.
+This package convert codeigniter4-http object from and to objects implementing HTTP message interfaces defined by PSR-7.
 
 ## Instalation
 
