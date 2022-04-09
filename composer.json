@@ -1,0 +1,29 @@
+{
+    "name": "mumtazhaqiqy/c14-psr7-http-messages",
+    "description": "Codeigniter 4 Http Message to PSR-7 Http Messages",
+    "keywords": ["codeigniter4", "http", "psr-7", "psr-17", "http-message", "http-factory"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mumtaz Haqiqy",
+            "email": "mumtazhaqiqy@gmail.com",
+            "homepage": "https://www.linkedin.com/in/mumtazhaqiqy/",
+            "role": "developer"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1",
+        "codeigniter4/framework": "^4.1",
+        "psr/http-message": "^1.0"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*",
+        "nyholm/psr7": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "mumtazhaqiqy\\Codeigniter4Psr7\\": "src/"
+        }
+    }
+}
