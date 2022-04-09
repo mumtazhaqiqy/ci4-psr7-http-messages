@@ -24,7 +24,7 @@ to a ``Nyholm\Psr7\ServerRequest`` class implementing the
 <?php
 
 use CodeIgniter\Config\Services;
-use mumtazhaqiqy\Codeigniter4Psr7\HttpPsr7Factory;
+use MumtazHaqiqy\Codeigniter4Psr7\HttpPsr7Factory;
 use Nyholm\Psr7\Factory\Psr17Factory;
 
 $requestCodeIgniter = Services::request();
