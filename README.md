@@ -12,7 +12,7 @@ $ composer require nyholm/psr7
 ## Usage
 
 The bridge provides an interface of a factory called
-``CodeIgniter\Psr7Bridge\Interfaces\HttpPsr7FactoryInterface``
+``MumtazHaqiqy\Codeigniter4Psr7\Interfaces\HttpPsr7FactoryInterface``
 that builds objects implementing PSR-7 interfaces from ``IncommingRequest`` objects.
 
 The following code snippet explains how to convert a ``CodeIgniter\HTTP\IncomingRequest``
