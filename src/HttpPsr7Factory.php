@@ -1,11 +1,11 @@
 <?php 
 
-namespace mumtazhaqiqy\Codeigniter4Psr7;
+namespace MumtazHaqiqy\Codeigniter4Psr7;
 
 use CodeIgniter\HTTP\DownloadResponse;
 use CodeIgniter\HTTP\IncomingRequest;
 use CodeIgniter\HTTP\Response;
-use mumtazhaqiqy\Codeigniter4Psr7\Interfaces\HttpPsr7FactoryInterface;
+use MumtazHaqiqy\Codeigniter4Psr7\Interfaces\HttpPsr7FactoryInterface;
 use Psr\Http\Message\ResponseFactoryInterface;
 use Psr\Http\Message\ServerRequestFactoryInterface;
 use Psr\Http\Message\StreamFactoryInterface;

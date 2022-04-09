@@ -1,6 +1,6 @@
 <?php 
 
-namespace mumtazhaqiqy\Codeigniter4Psr7\Interfaces;
+namespace MumtazHaqiqy\Codeigniter4Psr7\Interfaces;
 
 use CodeIgniter\HTTP\IncomingRequest;
 use CodeIgniter\HTTP\Response;

@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mumtazhaqiqy\\Codeigniter4Psr7\\": "src/"
+            "MumtazHaqiqy\\Codeigniter4Psr7\\": "src/"
         }
     }
 }
