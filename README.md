@@ -4,11 +4,11 @@ This package converst codeigniter4-http object from and to objects implementing 
 
 ## Instalation
 
----sh
+```sh
 $ composer require mumtazhaqiqy/ci4-psr7-http-messages
 
 $ composer require nyholm/psr7
----
+```
 
 ## Usage
 
